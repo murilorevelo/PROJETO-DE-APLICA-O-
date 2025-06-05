@@ -1,4 +1,5 @@
-# PROJETO-DE-APLICA-O-
+# PROJETO-DE-APLICACAO
+
 Projeto acadêmico 
 
 Alunos
@@ -13,4 +14,4 @@ Luiz Guilherme Botelho, RA 110250 -> https://github.com/brbotelhgu
 
 Murilo Gabriel Revelo, RA 114841 -> https://github.com/murilorevelo
 
-Railson de S. Andrade, RA 82356 -> https://github.com/railsonsandrade
+Thiago Vinicius Oliverio - RA: 114494 -> 
