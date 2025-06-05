@@ -14,4 +14,4 @@ Luiz Guilherme Botelho, RA 110250 -> https://github.com/brbotelhgu
 
 Murilo Gabriel Revelo, RA 114841 -> https://github.com/murilorevelo
 
-Thiago Vinicius Oliverio - RA: 114494 -> 
+Thiago Vinicius Oliverio - RA: 114494 -> https://github.com/ThiagoOliverio
