@@ -15,3 +15,7 @@ Luiz Guilherme Botelho, RA 110250 -> https://github.com/brbotelhgu
 Murilo Gabriel Revelo, RA 114841 -> https://github.com/murilorevelo
 
 Thiago Vinicius Oliverio - RA: 114494 -> https://github.com/ThiagoOliverio
+
+Confira a demonstração do projeto no YouTube:
+
+🔗 https://youtu.be/_3sdUAyesus
